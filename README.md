@@ -97,6 +97,8 @@ For starting up RViz with a configuration including the MoveIt! Motion Planning 
 
 ```roslaunch ur5_moveit_config moveit_rviz.launch```
 
+---
+
 ___Usage with Gazebo Simulation___
 There are launch files available to bringup a simulated robot.
 
